@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+
+html{
+	
+	margin:10px 45px auto 55px;
+	padding:25px;
+	background-color:#000;
+}
+body{
+	width:400px;
+	margin:100px 40px auto 626px;
+	background-color:#39C;
+	padding:30px;
+	
+	
+}
+
+h1{
+   
+   font-family:"Courier New", Courier, monospace;
+   font-color:#630;
+   text-align:center;	
+}
+
+
+
+.label1{
+      padding: 40px;
+	  color:#CCC;	
+ 	
+}
+
+.label2{
+	padding: 40px;
+	color:#ccc;
+}
+
+.oper{
+	padding: 30px 40px 40px 40px;
+	color:#ccc;
+}
+
+.but{
+	padding: 30px 40px 40px 40px;
+	color:#360;
+}
+
+.res{
+    padding: 30px 40px 40px 40px;
+	color:#fff;	
+}
